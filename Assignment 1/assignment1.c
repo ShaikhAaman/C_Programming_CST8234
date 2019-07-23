@@ -1,6 +1,7 @@
 /*
 Name: Mohammedaaman Shaikh and Soham chaudhary
 id: shai0043@algonquinlive.com and chau0161@algonquinlive.com
+Purpose: make a program to read files and seperate it accordingly i.e. number of words and repetation
 Section : CST8234 C language
 Assignment 1
  */
